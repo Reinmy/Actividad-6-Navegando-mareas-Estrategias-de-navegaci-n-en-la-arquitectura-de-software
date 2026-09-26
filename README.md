@@ -18,5 +18,4 @@ Para ello, se implementaron los siguientes patrones de diseño (ver archivo `vie
 ## Resultados de la Optimización
 La refactorización arquitectónica redujo el tiempo de renderizado de la tabla de varios segundos a **milisegundos**. Esto liberó por completo la carga computacional del equipo del cliente y protegió la memoria del servidor principal, asegurando una alta disponibilidad del sistema independientemente del crecimiento continuo de la base de datos.
 
----
 *Nota: Por estrictas políticas de seguridad y privacidad de datos médicos de la IPS Medialfa, este repositorio no contiene el sistema monolítico completo. Contiene exclusivamente los módulos (`views_optimizacion_historias.py`, `urls_snippet.py` y `Historias.html`) que evidencian la refactorización y la solución arquitectónica solicitada para la optimización de la navegación.*
