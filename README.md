@@ -1,0 +1,1 @@
+# Actividad-6-Navegando-mareas-Estrategias-de-navegaci-n-en-la-arquitectura-de-software
